@@ -21,7 +21,7 @@ const config = {
         copyAssets: true,
         generateScreenshots: false,
         screenshotFormat: process.env.SCREENSHOT_FORMAT || 'png',
-        screenshotQuality: parseInt(process.env.SCREENSHOT_QUALITY) || 90,
+        screenshotQuality: parseInt(process.env.SCREENSHOT_QUALITY) || 100,
         viewport: {
             width: parseInt(process.env.VIEWPORT_WIDTH) || 1920,
             height: parseInt(process.env.VIEWPORT_HEIGHT) || 1080
