@@ -13,136 +13,44 @@
   },
   "thumbnails": [
     {
-      "id": "mobile-app-expert",
-      "filename": "expert-mobile-app-development-android-ios-react-native-flutter-cross-platform-solutions-2026",
+      "id": "ai-automation-workflows",
+      "filename": "custom-ai-automation-business-workflows-scale-operations",
       "title": {
-        "line1": "React Native",
-        "line2": "& Flutter",
-        "line3": "Expert"
+        "line1": "AI",
+        "line2": "Automation",
+        "line3": "Systems"
       },
       "badge": {
-        "text": "iOS & Android",
-        "color": "blue-bright"
-      },
-      "description": "Native-performance mobile apps built with React Native & Flutter.",
-      "founderImage": "founder_avatar_2.png",
-      "statusBadge": {
-        "text": "Cross Platform",
-        "show": true
-      },
-      "theme": {
-        "primaryColor": "#3B82F6",
-        "accentColor": "#60A5FA"
-      }
-    },
-    {
-      "id": "flutterflow-specialist",
-      "filename": "flutterflow-developer-buildship-supabase-low-code-rapid-mobile-app-builder-mvp-expert",
-      "title": {
-        "line1": "FlutterFlow",
-        "line2": "Buildship",
-        "line3": "Supabase"
-      },
-      "badge": {
-        "text": "Low-Code Pro",
-        "color": "purple-400"
-      },
-      "description": "Rapid development using FlutterFlow with Buildship backend automation.",
-      "founderImage": "founder_avatar_2.png",
-      "statusBadge": {
-        "text": "Fast Build",
-        "show": true
-      },
-      "theme": {
-        "primaryColor": "#8B5CF6",
-        "accentColor": "#A78BFA"
-      }
-    },
-    {
-      "id": "backend-solutions",
-      "filename": "backend-developer-nodejs-nestjs-microservices-redis-api-architecture-scalable-database-design",
-      "title": {
-        "line1": "Node.js",
-        "line2": "NestJS",
-        "line3": "& Strapi"
-      },
-      "badge": {
-        "text": "Scalable APIs",
-        "color": "green-400"
-      },
-      "description": "Enterprise microservices architecture with Redis & NestJS.",
-      "founderImage": "founder_avatar_2.png",
-      "statusBadge": {
-        "text": "Backend Expert",
-        "show": true
-      },
-      "theme": {
-        "primaryColor": "#10B981",
-        "accentColor": "#34D399"
-      }
-    },
-    {
-      "id": "autodesk-integration",
-      "filename": "autodesk-aps-forge-viewer-api-integration-bim-automation-developer-custom-construction-software",
-      "title": {
-        "line1": "Autodesk",
-        "line2": "APS",
-        "line3": "APIs"
-      },
-      "badge": {
-        "text": "BIM Specialist",
-        "color": "blue-bright"
-      },
-      "description": "Custom Autodesk Platform Services (APS) & BIM integration.",
-      "founderImage": "founder_avatar_2.png",
-      "statusBadge": {
-        "text": "Certified Pro",
-        "show": true
-      },
-      "theme": {
-        "primaryColor": "#3B82F6",
-        "accentColor": "#60A5FA"
-      }
-    },
-    {
-      "id": "ai-saas-mvp",
-      "filename": "ai-saas-mvp-builder-bolt-new-lovable-v0-cursor",
-      "title": {
-        "line1": "AI SaaS",
-        "line2": "MVP",
-        "line3": "to Scale"
-      },
-      "badge": {
-        "text": "AI Stack",
+        "text": "Workflow AI",
         "color": "blue-500"
       },
-      "description": "Built with Bolt.new, Lovable, v0 & Cursor.",
+      "description": "Custom AI automation to scale business workflows.",
       "founderImage": "founder_avatar_2.png",
       "statusBadge": {
         "text": "AI Native",
         "show": true
       },
       "theme": {
-        "primaryColor": "#0B1220",
-        "accentColor": "#4F8BFF"
+        "primaryColor": "#3B82F6",
+        "accentColor": "#60A5FA"
       }
     },
     {
-      "id": "react-firebase-apps",
-      "filename": "react-js-next-js-firebase-web-application-development-saas-frontend-responsive-ui-ux",
+      "id": "shopify-dropshipping",
+      "filename": "professional-shopify-dropshipping-store-app-setup",
       "title": {
-        "line1": "Modern",
-        "line2": "Web",
-        "line3": "Apps"
+        "line1": "Shopify",
+        "line2": "Dropshipping",
+        "line3": "Store"
       },
       "badge": {
-        "text": "React Stack",
-        "color": "blue-bright"
+        "text": "Ecommerce",
+        "color": "blue-500"
       },
-      "description": "High-performance web apps with Next.js and Firebase auth.",
+      "description": "Professional Shopify dropshipping store & app setup.",
       "founderImage": "founder_avatar_2.png",
       "statusBadge": {
-        "text": "Full Stack",
+        "text": "Store Ready",
         "show": true
       },
       "theme": {
@@ -151,141 +59,49 @@
       }
     },
     {
-      "id": "fullstack-growth",
-      "filename": "full-stack-saas-development-mern-stack-scalable-web-app-growth-engine-startup-mvp",
+      "id": "desktop-app-electron",
+      "filename": "cross-platform-desktop-app-electron-modern-ui",
       "title": {
-        "line1": "SaaS",
-        "line2": "Growth",
-        "line3": "Engine"
+        "line1": "Desktop",
+        "line2": "Apps",
+        "line3": "Modern UI"
       },
       "badge": {
-        "text": "Startup Ready",
-        "color": "green-400"
+        "text": "Cross Platform",
+        "color": "blue-500"
       },
-      "description": "Conversion-focused full-stack SaaS architecture.",
+      "description": "Custom cross-platform desktop apps built with Electron.",
       "founderImage": "founder_avatar_2.png",
       "statusBadge": {
-        "text": "Scale Ready",
+        "text": "Production Ready",
         "show": true
       },
       "theme": {
-        "primaryColor": "#10B981",
-        "accentColor": "#34D399"
+        "primaryColor": "#3B82F6",
+        "accentColor": "#60A5FA"
       }
     },
     {
-      "id": "rapid-mvp",
-      "filename": "rapid-mvp-development-cursor-ai-30-days-startup-launch-fast-software-prototype-builder",
+      "id": "ai-chatbots-mobile",
+      "filename": "ai-chatbot-development-chatgpt-whatsapp-mobile-apps",
       "title": {
         "line1": "AI",
-        "line2": "MVP",
-        "line3": "Fast ⚡️"
+        "line2": "Chatbots",
+        "line3": "Mobile & Web"
       },
       "badge": {
-        "text": "Rapid Launch",
-        "color": "blue-bright"
+        "text": "Conversational AI",
+        "color": "blue-500"
       },
-      "description": "Lightning-fast MVP development using Cursor AI tools.",
+      "description": "AI chatbots & mobile apps with ChatGPT & WhatsApp integration.",
       "founderImage": "founder_avatar_2.png",
       "statusBadge": {
-        "text": "30 Day Build",
+        "text": "AI Powered",
         "show": true
       },
       "theme": {
         "primaryColor": "#3B82F6",
         "accentColor": "#60A5FA"
-      }
-    },
-    {
-      "id": "enterprise-scale",
-      "filename": "enterprise-software-architecture-microservices-high-traffic-scalable-solutions-cloud-infrastructure",
-      "title": {
-        "line1": "High",
-        "line2": "Traffic",
-        "line3": "Systems"
-      },
-      "badge": {
-        "text": "High Traffic",
-        "color": "purple-400"
-      },
-      "description": "Scalable microservices with Redis caching and optimization.",
-      "founderImage": "founder_avatar_2.png",
-      "statusBadge": {
-        "text": "Enterprise",
-        "show": true
-      },
-      "theme": {
-        "primaryColor": "#8B5CF6",
-        "accentColor": "#A78BFA"
-      }
-    },
-    {
-      "id": "mern-stack-pro",
-      "filename": "mern-stack-developer-mongodb-express-react-nodejs-full-stack-website-development-expert",
-      "title": {
-        "line1": "Full",
-        "line2": "Stack",
-        "line3": "SaaS"
-      },
-      "badge": {
-        "text": "MERN Stack",
-        "color": "green-400"
-      },
-      "description": "Complete MERN stack solutions with robust database design.",
-      "founderImage": "founder_avatar_2.png",
-      "statusBadge": {
-        "text": "Expert Dev",
-        "show": true
-      },
-      "theme": {
-        "primaryColor": "#10B981",
-        "accentColor": "#34D399"
-      }
-    },
-    {
-      "id": "custom-apis",
-      "filename": "custom-api-development-graphql-rest-api-integration-backend-services-server-side-logic",
-      "title": {
-        "line1": "APIs",
-        "line2": "That",
-        "line3": "Scale"
-      },
-      "badge": {
-        "text": "API Specialist",
-        "color": "blue-bright"
-      },
-      "description": "Secure and documented API development for any platform.",
-      "founderImage": "founder_avatar_2.png",
-      "statusBadge": {
-        "text": "Backend",
-        "show": true
-      },
-      "theme": {
-        "primaryColor": "#3B82F6",
-        "accentColor": "#60A5FA"
-      }
-    },
-    {
-      "id": "payment-integration",
-      "filename": "stripe-payment-gateway-integration-paddle-paypal-secure-fintech-saas-subscription-billing",
-      "title": {
-        "line1": "Stripe",
-        "line2": "Paddle",
-        "line3": "Pay"
-      },
-      "badge": {
-        "text": "Secure Pay",
-        "color": "purple-400"
-      },
-      "description": "Seamless integration of Stripe, Paddle, and PayPal gateways.",
-      "founderImage": "founder_avatar_2.png",
-      "statusBadge": {
-        "text": "Fintech",
-        "show": true
-      },
-      "theme": {
-        "primaryColor": "#8B5CF6",
-        "accentColor": "#A78BFA"
       }
     }
   ]
