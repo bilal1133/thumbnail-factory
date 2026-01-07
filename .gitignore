@@ -1,0 +1,35 @@
+#Ignore windsurf AI rules
+.windsurfrules
+
+# Generated files
+output/
+logs/
+*.log
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Screenshots (if you want to exclude them)
+# screenshots/

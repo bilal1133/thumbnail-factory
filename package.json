@@ -1,0 +1,48 @@
+{
+  "name": "thumbnail-generator",
+  "version": "1.0.0",
+  "description": "Production-ready scalable thumbnail generation system with data-driven templates and automated screenshot capture",
+  "main": "src/generator.js",
+  "scripts": {
+    "start": "npm run build",
+    "generate": "node src/generator.js",
+    "generate:single": "node src/generator.js --single",
+    "generate:list": "node src/generator.js --list",
+    "screenshot": "node src/screenshot-playwright.js",
+    "screenshot:all": "node src/screenshot-playwright.js --all",
+    "screenshot:puppeteer": "node src/screenshot.js --all",
+    "build": "npm run clean && npm run generate && npm run screenshot:all",
+    "build:fast": "npm run screenshot:all",
+    "clean": "rm -rf output/* logs/*.log",
+    "clean:all": "rm -rf output/* logs/*.log node_modules/",
+    "validate": "node src/validator.js",
+    "test": "node src/validator.js"
+  },
+  "keywords": [
+    "thumbnail",
+    "generator",
+    "template",
+    "automation",
+    "screenshot",
+    "playwright",
+    "fiverr",
+    "gig"
+  ],
+  "author": "TKTurners",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tkturners/thumbnail-generator"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}

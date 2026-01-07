@@ -1,0 +1,85 @@
+{
+  "defaults": {
+    "theme": {
+      "primaryColor": "#3B82F6",
+      "accentColor": "#60A5FA",
+      "ctaColor": "#FF6B35",
+      "backgroundGradient": "from-gray-800 via-gray-900 to-black"
+    },
+    "branding": {
+      "logo": "tkturners.png",
+      "badge": "fiver.png"
+    }
+  },
+  "thumbnails": [
+    {
+      "id": "saas-converts",
+      "filename": "saas-converts-thumbnail",
+      "title": {
+        "line1": "SaaS",
+        "line2": "That",
+        "line3": "Converts"
+      },
+      "badge": {
+        "text": "Premium Development",
+        "color": "blue-bright"
+      },
+      "description": "Full-stack architecture designed for scalability & growth.",
+      "founderImage": "founder_avatar_2.png",
+      "statusBadge": {
+        "text": "MVP to Scale",
+        "show": true
+      },
+      "theme": {
+        "primaryColor": "#3B82F6",
+        "accentColor": "#60A5FA"
+      }
+    },
+    {
+      "id": "rapid-mvp",
+      "filename": "rapid-mvp-30-days",
+      "title": {
+        "line1": "MVP",
+        "line2": "In",
+        "line3": "30 Days"
+      },
+      "badge": {
+        "text": "Fast Delivery",
+        "color": "green-400"
+      },
+      "description": "Launch your product faster with proven development frameworks.",
+      "founderImage": "founder_avatar_2.png",
+      "statusBadge": {
+        "text": "Rapid Build",
+        "show": true
+      },
+      "theme": {
+        "primaryColor": "#10B981",
+        "accentColor": "#34D399"
+      }
+    },
+    {
+      "id": "enterprise-scale",
+      "filename": "enterprise-scale-solutions",
+      "title": {
+        "line1": "Enterprise",
+        "line2": "Ready",
+        "line3": "Solutions"
+      },
+      "badge": {
+        "text": "Enterprise Grade",
+        "color": "purple-400"
+      },
+      "description": "Scalable architecture built for high-traffic applications.",
+      "founderImage": "founder_avatar_2.png",
+      "statusBadge": {
+        "text": "Production Ready",
+        "show": true
+      },
+      "theme": {
+        "primaryColor": "#8B5CF6",
+        "accentColor": "#A78BFA"
+      }
+    }
+  ]
+}
